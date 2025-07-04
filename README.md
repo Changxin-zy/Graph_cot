@@ -16,6 +16,6 @@
 3、构建电路设计思维链数据构建多主体Agent框架（CT-MA），实现指定格式以子图谱作为知识逻辑的COT数据。  
 
 ### 2.3.2 COT数据格式
-1、<logic> ....<logic> 子图谱思维链脉络；  
-2、<think>...<think>根据logic脉络进行思考rag检索，给出详细的知识推理思考方式；  
-3、<answer>...<answer>根据think过程给出对应的回答。
+1、 子图谱思维链脉络<logic> ....<logic>；  
+2、根据logic脉络进行思考rag检索，给出详细的知识推理思考方式<think>...<think>；  
+3、根据think过程给出对应的回答<answer>...<answer>。
