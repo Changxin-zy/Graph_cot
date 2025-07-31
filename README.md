@@ -1,4 +1,6 @@
 # Graph_cot
+Bottom-up Domain-specific Superintelligence:A Reliable Knowledge Graph is What We Need
+Improving LLMs’ Generalized Reasoning Abilities by Graph Problems
 ## 2.2 电路自适应逻辑知识图谱系统构建
 ### 2.2.1 实现方法流程
 1、根据书籍/其他材料拆分章节目录  
